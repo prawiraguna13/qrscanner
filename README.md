@@ -1,6 +1,6 @@
-# flutter_application_1
+# QR Scanner Virus Total
 
-A new Flutter project.
+Buat tugas aja
 
 ## Getting Started
 
